@@ -7,7 +7,7 @@ Olá! me chamo Eryck Calisto e sou um Dev junior!
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Eryck Avelino's GitHub stats](https://github-readme-stats.vercel.app/api?username=eryckavel&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckavel&layout=compact&theme=radical)](https://github.com/eryckavel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckavel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EryckAvel&bg_color=0a0a0a&color=d1c2c6&line=581485&point=75299e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
