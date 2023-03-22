@@ -15,6 +15,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eryckavel&bg_color=0a0a0a&color=d1c2c6&line=581485&point=75299e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+# **_Repositorios Principais_**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryckavel&repo=spring-jwt&theme=radical)](https://github.com/eryckavel/spring-jwt)
+
 # **_Redes Sociais_**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eryck-avelino-a641b6232/)
