@@ -10,16 +10,16 @@
 
 # **_Git status_**
 
-![Eryck Avelino's GitHub stats](https://github-readme-stats.vercel.app/api?username=eryckavel&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eryckavel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Eryck Avelino's GitHub stats](https://github-readme-stats.eryckavel.vercel.app/api?username=eryckavel&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.eryckavel.vercel.app/api/top-langs/?username=eryckavel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eryckavel&bg_color=0a0a0a&color=d1c2c6&line=581485&point=75299e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # **_Repositorios Principais_**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryckavel&repo=spring-jwt&theme=radical)](https://github.com/eryckavel/spring-jwt)
+[![Readme Card](https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-jwt&theme=radical)](https://github.com/eryckavel/spring-jwt)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eryckavel&repo=spring-webclient&theme=radical)](https://github.com/eryckavel/spring-webclient)
+[![Readme Card](https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-webclient&theme=radical)](https://github.com/eryckavel/spring-webclient)
 
 # **_Redes Sociais_**
 
