@@ -18,7 +18,6 @@
 # **_Repositorios Principais_**
 
 [![Readme Card](https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-jwt&theme=radical)](https://github.com/eryckavel/spring-jwt)
-
 [![Readme Card](https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-webclient&theme=radical)](https://github.com/eryckavel/spring-webclient)
 
 # **_Redes Sociais_**
