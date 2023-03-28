@@ -20,6 +20,8 @@
 [![Readme Card](https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-jwt&theme=radical)](https://github.com/eryckavel/spring-jwt)
 [![Readme Card](https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-webclient&theme=radical)](https://github.com/eryckavel/spring-webclient)
 
+[![Readme Card](https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-microservices&theme=radical)](https://github.com/EryckAvel/spring-microservices.git)
+
 # **_Redes Sociais_**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eryck-avelino-a641b6232/)
