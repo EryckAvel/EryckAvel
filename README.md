@@ -39,6 +39,7 @@
   <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-webclient&theme=radical" href="https://github.com/eryckavel/spring-webclient"/>
   <br>
   <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-microservices&theme=radical" href="https://github.com/EryckAvel/spring-microservices.git"/>
+    <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=estudos-sql&theme=radical" href="https://github.com/EryckAvel/estudos-sql.git"/>
 </div>  
   
 ## **_Redes Sociais_**
