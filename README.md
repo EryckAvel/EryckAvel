@@ -1,7 +1,7 @@
 ## **__Olá, me chamo Eryck Calisto e sou um Dev junior!__** 🔥
 
 
-<ul>
+<ul>  
   <li>Estudando Back End 🗃️</li>
   <li>Cursando Engenharia de Software na Estácio 📖</li>
 </ul>
@@ -34,11 +34,16 @@
 ## **_Repositorios Principais_**
 
 <div align="center" display="flex" justifyContent="center">
-  
-  <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-jwt&theme=radical" href="https://github.com/eryckavel/spring-jwt"/>
-  <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-webclient&theme=radical" href="https://github.com/eryckavel/spring-webclient"/>
+  <a href="https://github.com/eryckavel/spring-jwt">
+    <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-jwt&theme=radical" />
+  </a>
+  <a href="https://github.com/eryckavel/spring-webclient">
+  <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-webclient&theme=radical" />
+  </a>
   <br>
-  <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-microservices&theme=radical" href="https://github.com/EryckAvel/spring-microservices.git"/>
+  <a href="https://github.com/EryckAvel/spring-microservices.git">
+  <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=spring-microservices&theme=radical" />
+  </a>
   <a href="https://github.com/EryckAvel/estudos-sql.git">
     <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=estudos-sql&theme=radical"/>
   </a>
