@@ -21,7 +21,7 @@
 <div align="center" display="inline-block">
   <a href="https://github.com/EryckAvel">
   <img height="180cm" src="https://github-readme-stats.eryckavel.vercel.app/api?username=eryckavel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.eryckavel.vercel.app/api/top-langs/?username=eryckavel&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170cm" src="https://github-readme-stats.eryckavel.vercel.app/api/top-langs/?username=eryckavel&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   
