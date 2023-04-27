@@ -16,7 +16,7 @@
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">         
 </div>
 
-## **_Git status_**
+## **_Git Status_**
 
 <div align="center" display="inline-block">
   <a href="https://github.com/EryckAvel">
