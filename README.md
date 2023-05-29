@@ -23,13 +23,6 @@
   <img height="180cm" src="https://github-readme-stats.eryckavel.vercel.app/api?username=eryckavel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="165cm" src="https://github-readme-stats.eryckavel.vercel.app/api/top-langs/?username=eryckavel&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-  
-<div align="center" display="inline-block">
-  <a href="https://github.com/EryckAvel">
-  <img height="320em" src="https://github-readme-activity-graph.cyclic.app/graph?username=eryckavel&bg_color=0a0a0a&color=d1c2c6&line=581485&point=75299e&area=true&hide_border=truee"/>
-</div>
-
   
 ## **_Repositorios Principais_**
 
