@@ -40,6 +40,14 @@
   <a href="https://github.com/EryckAvel/estudos-sql.git">
     <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=estudos-sql&theme=radical"/>
   </a>
+    </a>
+  <a href="https://github.com/EryckAvel/estudos-java.git">
+    <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=estudos-java&theme=radical"/>
+  </a>
+  </a>
+  <a href="https://github.com/EryckAvel/estudosjs.git">
+    <img height="120em" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=estudosjs&theme=radical"/>
+  </a>
 </div>  
   
 ## **_Redes Sociais_**
