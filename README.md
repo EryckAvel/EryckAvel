@@ -192,8 +192,8 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=eryckavel&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.eryckavel.vercel.app/api?username=eryckavel&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
-  <img height="160px" src="https://streak-stats.demolab.com?user=eryckavel&theme=tokyonight&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.eryckavel.vercel.app/api?username=eryckavel&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
+  <img height="170px" src="https://streak-stats.demolab.com?user=eryckavel&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
