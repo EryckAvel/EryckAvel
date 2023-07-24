@@ -156,7 +156,7 @@
 
 <img align="center" src="./leadboards/PROJETOS.png" width="100%" alt="Título da seção projetos" />
 
-<table height="495px" align="center">
+<table height="400px" align="center">
   <tr>
     <td>
     <a href="https://github.com/eryckavel/spring-jwt" target="_blank">
