@@ -1,6 +1,3 @@
-<img align="center" width="100%" alt="Banner Animado do Github do Eryck" src="./imagem/banner.apng" />
-
-<br/>
 <div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=eryckavel&repo=eryckavel&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
 </div>
