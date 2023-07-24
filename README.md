@@ -1,3 +1,11 @@
+<img align="center" width="100%" alt="Banner Animado do Github do Eryck" src="./imagem/banner.apng" />
+
+<br/>
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=eryckavel&repo=eryckavel&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
+</div>
+<hr/>
+
 <img align="center" src="./leadboards/SOBREMIN.png" width="100%" alt="Título da seção Sobre Mim" />
 
 <ul>
@@ -8,6 +16,12 @@
   <li>🇺🇸 Tenho inglês basico.</li>
   <li>🎮 Curto jogar.</li>
 </ul>
+
+<div align="center">
+  <a href="hhttps://open.spotify.com/user/1sq3txsmx72klfgz2segia9ov" target="_blank">
+    <img src="https://spotify-readme.vercel.app/api?theme=dark&scan=false" alt="Música que está tocando no Spotify do Eryck no momento" />
+  </a>
+</div>
 
 <hr>
 
