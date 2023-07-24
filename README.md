@@ -189,7 +189,7 @@
     </td>
     <td>
     <a href="https://github.com/EryckAvel/estudosjs.git" target="_blank">
-      <img align="center" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=estudos-java&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+      <img align="center" src="https://github-readme-stats.eryckavel.vercel.app/api/pin/?username=eryckavel&repo=estudosjs&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
