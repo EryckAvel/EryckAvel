@@ -15,8 +15,8 @@
 </ul>
 
 <div align="center">
-  <a href="hhttps://open.spotify.com/user/1sq3txsmx72klfgz2segia9ov" target="_blank">
-    <img src="https://spotify-readme.vercel.app/api?theme=dark&scan=false" alt="Música que está tocando no Spotify do Eryck no momento" />
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=1sq3txsmx72klfgz2segia9ov" target="_blank">
+    <img height="350px" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=1sq3txsmx72klfgz2segia9ov&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Música que está tocando no Spotify do Eryck no momento" />
   </a>
 </div>
 
