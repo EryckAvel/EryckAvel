@@ -7,7 +7,7 @@
 
 <ul>
   <li>😃 Me chamo Eryck, e sou um Dev Back end.</li>
-  <li>🔭 Com menos de 1 anos de <b>experiência</b>, tenho sonhecimento em algumas tecnologias back end focadas em java</li>
+  <li>🔭 Com menos de 1 anos de <b>experiência</b>, tenho conhecimento em algumas tecnologias back end focadas em java</li>
   <li>🔮 Atualmente minha linguagem de dominancia e Java para Back end, porem tenho a meta de me tornar um Fullstack.</li>
   <li>🇺🇸 Tenho inglês basico.</li>
   <li>🎮 Curto jogar.</li>
