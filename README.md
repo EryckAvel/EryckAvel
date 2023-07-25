@@ -207,8 +207,8 @@
 </div>
 
 <div align="center">
-  <img height="165px" src="https://github-readme-stats.eryckavel.vercel.app/api/top-langs?username=eryckavel&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/wakatime?username=eryckavel&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
+  <img height="164px" src="https://github-readme-stats.eryckavel.vercel.app/api/top-langs?username=eryckavel&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+  <img height="164px" src="https://github-readme-stats.vercel.app/api/wakatime?username=eryckavel&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
 </div>
 
 <hr/>
