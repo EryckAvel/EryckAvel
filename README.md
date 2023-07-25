@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=eryckavel&repo=eryckavel&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=eryckavel&repo=eryckavel&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Eryck" height="40px" />
 </div>
 <hr/>
 
 <img align="center" src="./leadboards/SOBREMIN.png" width="100%" alt="Título da seção Sobre Mim" />
 
 <ul>
-  <li>😃 Me chamo Eryck, e sou um Dev Back end.</li>
-  <li>🔭 Com menos de 1 anos de <b>experiência</b>, tenho conhecimento em algumas tecnologias back end focadas em java</li>
-  <li>🔮 Atualmente minha linguagem de dominancia e Java para Back end, porem tenho a meta de me tornar um Fullstack.</li>
-  <li>🇺🇸 Tenho inglês basico.</li>
+  <li>😃 Meu nome é Eryck, e sou um desenvolvedor back end.</li>
+  <li>🔭 Ao longo de menos de um ano de atuação nessa área, adquiri conhecimentos sólidos em Java e suas tecnologias associadas.</li>
+  <li>🔮 Atualmente, minha especialização está voltada para o desenvolvimento em Java no ambiente back end, mas estabeleci como meta me tornar um profissional full-stack.</li>
+  <li>🇺🇸  Proficiência em inglês em nível básico.</li>
   <li>🎮 Curto jogar.</li>
 </ul>
 
