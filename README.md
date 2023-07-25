@@ -7,7 +7,7 @@
 
 <ul>
   <li>😃 Meu nome é Eryck, e sou um desenvolvedor back end.</li>
-  <li>🔭 Ao longo de menos de um ano de atuação nessa área, adquiri conhecimentos sólidos em Java e suas tecnologias associadas.</li>
+  <li>🔭 A menos de um ano de atuação nessa área, adquiri conhecimentos sólidos em Java e suas tecnologias associadas.</li>
   <li>🔮 Atualmente, minha especialização está voltada para o desenvolvimento em Java no ambiente back end, mas estabeleci como meta me tornar um profissional full-stack.</li>
   <li>🇺🇸  Proficiência em inglês em nível básico.</li>
   <li>🎮 Curto jogar.</li>
