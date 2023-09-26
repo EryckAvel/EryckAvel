@@ -203,7 +203,7 @@
 
 <div align="center">
   <img height="170px" src="https://github-readme-stats.eryckavel.vercel.app/api?username=eryckavel&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400" />
-  <img height="170px" src="https://streak-stats.demolab.com?user=eryckavel&theme=tokyonight&hide_border=true" />
+  <img height="170px" src="https://github-readme-streak-stats-azure.vercel.app?user=eryckavel&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 <div align="center">
