@@ -8,12 +8,6 @@
   <li>🎮 Curto jogar.</li>
 </ul>
 
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=1sq3txsmx72klfgz2segia9ov" target="_blank">
-    <img height="300px" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=1sq3txsmx72klfgz2segia9ov&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Música que está tocando no Spotify do Eryck no momento" />
-  </a>
-</div>
-
 <hr>
 
 <img align="center" src="./leadboards/MINHASTACK.png" width="100%" alt="Título da seção minha stack" />
@@ -202,8 +196,8 @@
 </div>
 
 <div align="center">
-  <img height="218px" src="https://github-readme-stats.eryckavel.vercel.app/api/top-langs?username=eryckavel&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
-  <img height="218px" src="https://github-readme-stats.vercel.app/api/wakatime?username=eryckavel&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
+  <img height="250px" src="https://github-readme-stats.eryckavel.vercel.app/api/top-langs?username=eryckavel&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
+  <img height="250px" src="https://github-readme-stats.vercel.app/api/wakatime?username=eryckavel&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
 </div>
 
 <hr/>
