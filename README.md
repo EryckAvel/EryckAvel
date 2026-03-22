@@ -1,4 +1,3 @@
-<!-- SOBRE MIM -->
 <img align="center" src="./leadboards/SOBREMIN.png" width="100%" alt="Título da seção Sobre Mim" />
 
 <ul>
@@ -11,7 +10,6 @@
 
 <hr/>
 
-<!-- STACK -->
 <img align="center" src="./leadboards/MINHASTACK.png" width="100%" alt="Título da seção Minha Stack" />
 
 <table align="center">
@@ -118,7 +116,6 @@
 
 <hr/>
 
-<!-- PROJETOS -->
 <img align="center" src="./leadboards/PROJETOS.png" width="100%" alt="Título da seção Projetos" />
 
 <table align="center">
@@ -194,7 +191,6 @@
 
 <hr/>
 
-<!-- CONTATOS -->
 <img align="center" src="./leadboards/CONTATOS.png" width="100%" alt="Título da seção Contatos" />
 
 <div align="center">
