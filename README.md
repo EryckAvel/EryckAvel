@@ -94,12 +94,12 @@ Ferramentas <br/> <a href="https://git-scm.com"><img src="https://skillicons.dev
 <img align="center" src="./leadboards/ATIVIDADE.png" width="100%" alt="Atividade" /> 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards-253j.vercel.app/api/cards/profile-details?username=eryckavel&theme=tokyonight&animation=load&duration=2" width="60%" alt="Gráfico de commits" />
+  <img src="https://github-profile-summary-cards-253j.vercel.app/api/cards/profile-details?username=eryckavel&theme=tokyonight&animation=load&duration=2" width="80%" alt="Gráfico de commits" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards-253j.vercel.app/api/cards/repos-per-language?username=eryckavel&theme=tokyonight&animation=load&duration=2" width="30%" alt="Principais linguagens por repositório" />
-  <img src="https://github-profile-summary-cards-253j.vercel.app/api/cards/stats?username=eryckavel&theme=tokyonight&animation=load&duration=2" width="30%" alt="Informações gerais" />
+  <img src="https://github-profile-summary-cards-253j.vercel.app/api/cards/repos-per-language?username=eryckavel&theme=tokyonight&animation=load&duration=2" width="40%" alt="Principais linguagens por repositório" />
+  <img src="https://github-profile-summary-cards-253j.vercel.app/api/cards/stats?username=eryckavel&theme=tokyonight&animation=load&duration=2" width="40%" alt="Informações gerais" />
 </div>
 
 <hr/> 
